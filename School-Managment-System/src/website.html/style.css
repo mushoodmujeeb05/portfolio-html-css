@@ -1,0 +1,12 @@
+.mainheader{
+    background-color: lightgrey;
+}
+section.firstblog, section.secondblog{
+    background-color: lightgrey;
+}
+h1{
+    color: skyblue;
+}
+span{
+    color: aqua;
+}

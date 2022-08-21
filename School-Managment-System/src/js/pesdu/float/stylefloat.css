@@ -1,0 +1,23 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+.one2{
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 5px;
+    width: 500px;
+    box-sizing: border-box;
+ 
+}
+.one3{
+    background-color: blueviolet;
+    width: 500px;
+    border: 5px solid brown;
+    float: right;
+    margin-right: 300px;
+    margin-top: -160px;
+
+}

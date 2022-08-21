@@ -1,0 +1,9 @@
+h1{
+    border: 5px solid red;
+    padding: 20px;
+    margin: 50px;
+    background-color: aqua;
+    width: 500px;
+     margin: 20px auto; /* centre ma krny ky liye */
+     text-align: center;
+}

@@ -1,0 +1,90 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#maindiv{
+    border: 2px solid red;
+    height: 100%;
+    width: 100%;
+}
+#login{
+    height: 50%;
+    width: 50%;
+    align-content: center;
+    margin: 2px;
+    margin-top: 50px;
+    margin-left: 450px;
+    font-size: xx-large;
+
+}
+hr{
+    width: 44%;
+    margin-left: 25%;
+}
+#username{
+    height: 118px;
+    width: 50%;
+    margin: 30px;
+    margin-left: 450px;
+}
+#password{
+    height: 50%;
+    width: 50%;
+    margin: -44px;
+    margin-left: 450px;
+   
+}
+#button-div{
+    text-align: center;
+    margin: 50px;
+    margin-left: 6px;
+    
+}
+button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 19px;
+}
+
+/* For Input form - css  start*/
+#username1{
+    margin: 30px;
+    padding: 19px;
+    border-radius: 25px;
+}
+#label1{
+    margin-left: 2px;
+    font-size: x-large;
+}
+
+#password1{
+    margin: 30px;
+    padding: 19px;
+    border-radius: 25px;
+}
+#label2{
+    margin-left: 2px;
+    font-size: x-large;
+}
+/* For Input form - css  end*/
+
+/* for success labels - start*/
+.success {
+    background-color: #ddffdd;
+    border-left: 6px solid #04AA6D;
+    margin-left: 32%;
+    margin-bottom: 30px;
+    width: 46%;
+    margin-top: -3%;
+  }
+  
+  
+  /* for success labels - end*/

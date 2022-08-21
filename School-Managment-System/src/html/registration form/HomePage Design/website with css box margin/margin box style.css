@@ -1,0 +1,22 @@
+h1{
+    background-color: lightgray;
+    padding: 5px;
+    text-align: center;
+}
+section.about-me, section.about-iman{
+border: 2px solid black;
+padding: 5px;
+/* background-color: aqua; */
+}
+.about-me{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+section h3{
+    text-transform: uppercase;
+}
+.container{
+    /* border: 2px solid red; */
+    width: 1000px;
+    margin: 0 auto;
+}

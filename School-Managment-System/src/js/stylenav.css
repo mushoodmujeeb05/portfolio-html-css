@@ -1,0 +1,31 @@
+nav{
+    /* border: 2px solid brown; */
+    background-color: lightgrey;
+    padding: 1px;
+}
+nav ul{
+    /* border: 2px solid yellow; */
+    padding: 0px;
+    text-align: center;   
+    padding: 5px;
+}
+a{
+    color: #444;
+    text-decoration: none;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    border-bottom:1px solid black;
+    margin: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+h3{
+    border-bottom: 1px solid black;
+}
+.styling{
+    /* background-color: aqua;
+    border: 1px solid black; */
+    margin: 20px;
+}
